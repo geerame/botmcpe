@@ -1,9 +1,9 @@
 {
-	"ip":"donator3.falixnodes.net",
-	"port": 25710,
-	"name": "afkbot1",
+	"ip":"geera24.aternos.me",
+	"port":"28417",
+	"name": "testblock",
 	"auto-night-skip":"false",
-	"login-enabled":"true",
-	"register-cmd":"/register (type_ur_pass_here(remember_no_spaces)) (type_ur_pass_here(remember_no_spaces))",
-	"login-cmd":"/login (type_ur_pass_here)"
+	"login-enabled":"false",
+	"register-cmd":"/register pass123",
+	"login-cmd":"/login pass123"
 }
